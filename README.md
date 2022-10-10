@@ -1,5 +1,5 @@
 # tis-tiny-search
-Tiny by abstraction but really scalable general purposes search library.
+Tiny by abstraction but really scalable and general purposes search library.
 
 ## Features
  - General Purpose
